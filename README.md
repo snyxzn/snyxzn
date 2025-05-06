@@ -21,7 +21,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/ricrodriguees/?next=%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -39,13 +39,15 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg4azF5YmJjdmZtdDd0dGxtdGRkZzl0MHNkN29sdnQ5cHd1a2g5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zGSdJHYoiDyGPEjqY/giphy.gif"  />
+  <a href="https://open.spotify.com/user/dreezin">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dreezin&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/snyxzn/snyxzn/snakeyml/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg4azF5YmJjdmZtdDd0dGxtdGRkZzl0MHNkN29sdnQ5cHd1a2g5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zGSdJHYoiDyGPEjqY/giphy.gif"  />
+</div>
 
 ###
